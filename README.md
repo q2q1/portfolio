@@ -36,7 +36,7 @@ My Contribution: Integrated API, displayed dynamic weather info, and added chart
 Outcome / Demo:
 
 
-🔗 View Code / Demo
+[🔗 View Code / Demo](https://github.com/q2q1/Reggie_takeout.git)
 
 🧰 Skills
 
