@@ -3,11 +3,11 @@ Computer Science Student | Programming | Aspiring Software Developer
 
 Welcome to my portfolio! Here you can explore my projects, skills, and experience.
 
-🏠 Home
+ Home
 
 Hi! I’m Chen, a Computer Science student at LaSalle College. I love building software applications, exploring new technologies, and solving real-world problems through programming.
 
-📂 Projects
+ Projects
 1. Personal Portfolio Website
 
 Overview: Built a personal portfolio website to showcase my projects and skills.
@@ -16,7 +16,7 @@ My Contribution: Designed the layout, implemented responsive design, and added i
 Outcome / Demo:
 
 
-🔗 View Code / Demo
+[🔗 View Code / Demo](https://github.com/q2q1/personal.git)
 
 2. Student Management App
 
@@ -38,7 +38,7 @@ Outcome / Demo:
 
 [🔗 View Code / Demo](https://github.com/q2q1/Reggie_takeout.git)
 
-🧰 Skills
+ Skills
 
 Programming Languages: Python, Java, C++
 
@@ -46,7 +46,7 @@ Web / Frameworks: HTML, CSS, JavaScript, Flask
 
 Tools: Git, GitHub, VSCode
 
-📖 About Me
+ About Me
 
 I am passionate about software development, problem-solving, and technology innovation. Currently studying Computer Science at LaSalle College, I enjoy creating projects that combine functionality with clean design.
 
