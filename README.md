@@ -18,20 +18,20 @@ Outcome / Demo:
 
 🔗 View Code / Demo
 
-2. Task Management App
+2. Student Management App
 
 Overview: Developed a task management application to organize daily tasks.
-Tech Stack: Python, Flask, SQLite
+Tech Stack: Php Phpmyadmin
 My Contribution: Implemented backend logic, database handling, and user interface.
 Outcome / Demo:
 
 
-🔗 View Code / Demo
+[🔗 View Code / Demo](https://github.com/q2q1/StudentManagement.git)
 
-3. Weather Forecast Dashboard
+3. Take out website
 
 Overview: Created a dashboard that fetches real-time weather data for different cities.
-Tech Stack: JavaScript, API, HTML, CSS
+Tech Stack: JavaScript, API, HTML, CSS Mybatis-plus spring boot
 My Contribution: Integrated API, displayed dynamic weather info, and added charts for visualization.
 Outcome / Demo:
 
